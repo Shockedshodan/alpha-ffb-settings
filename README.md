@@ -21,10 +21,25 @@ Possibly, you will need to reload your Alpha Manager.
 * `AC/default.txt` -- these settings could be used as optimal for your AlphaBase.
 * `AC/MX5.ini` -- optionally, particular sim settings can be mentioned for a car/a group of cars. But it's more preferable to keep differences in base settings, as it's easier to manage.
 
+### Vendor's settings
+
+| File  | Sim app |
+| ------------- | ------------- |
+| `AC.ini`  | Assetto Corsa  |
+| `ACC.ini` | Assetto Corsa Competizione |
+| `iRacing.ini` | iRacing |
+| `DirtRally2.ini` | Dirt Rally 2.0 |
+| `EUROTRUCKS.ini` | Eurotrucks |
+| `data.ini` | (I don't know the purpose of this file) |
+
+**Please do not change these files. But please update them if the settings were updated (in future releases)**
+
 ### Filename Convention
 Filename format: `SimName_ShortCarNameOrType.ini`<br>
 E.g.: `AC_MX5.ini`, or `AC_TCR.ini` for TCR group of cars, in case it works for a whole car group.<br>
 The short name shall be very recognizable. Don't be shy to mention a bit more in the file name. But one car shall have only one file.
+
+NOTE: Filename must be short as possible as it is hard to read long names in Alpha Manager dropdown.
 
 ## Adding a new setup
 
