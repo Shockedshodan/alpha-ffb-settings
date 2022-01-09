@@ -18,7 +18,7 @@ Possibly, you will need to reload your Alpha Manager.
   /AC/MX5.ini     <-- Custom settings for MX5 (optional)
 ```
 
-* `AC/default.txt` -- this settings could be used as optimal for your AlphaBase.
+* `AC/default.txt` -- these settings could be used as optimal for your AlphaBase.
 * `AC/MX5.ini` -- optionally, particular sim settings can be mentioned for a car/a group of cars. But it's more preferable to keep differences in base settings, as it's easier to manage.
 
 ### Filename Convention
@@ -38,7 +38,7 @@ The short name shall be very recognizable. Don't be shy to mention a bit more in
 #### Car Simulator Settings
 Any base settings must be related to the sim settings.<br>
 Default sim settings shall be added along with base settings (e.g. `AC/default.txt`).<br>
-Custom sim settings for a car can be added along with base settings (e.g. `AC/MX5.txt`.<br>
+Custom sim settings for a car can be added along with base settings (e.g. `AC/MX5.txt`).<br>
 
 Force Feedback settings can be found here:
 Assetto Corsa: `Content Manager > Settings > Assetto Corsa > Contols > Force Feedback`
