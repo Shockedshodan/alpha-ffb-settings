@@ -28,7 +28,7 @@ NOTE: the value is prediction, haven't tested on mini
 
 ## Alpha Base Vendor's settings 
 
-File: `AC.ini`
+File: [`AC.ini`](AC.ini)
 
 <details>
   <summary>INI content</summary>
@@ -73,7 +73,7 @@ File: `AC_TCR_Honda.ini`
 
 Note: May work for all TCR cars.
 
-[x] Default in-game settings
+- [X] Default in-game settings
 
 | Alpha Manager | Value |
 | -- | -- |
