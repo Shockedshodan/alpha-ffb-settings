@@ -69,7 +69,7 @@ Languages=2
 ## Custom Alpha Base Settings For Cars
 ### TCR
 
-File: `AC_TCR_Honda.ini`
+File: [`AC_TCR_Honda.ini`](AC_TCR_Honda.ini)
 
 Note: May work for all TCR cars.
 
